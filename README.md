@@ -1,3 +1,4 @@
 # Code-Quiz
-Coding Questionnaire quiz game
-git@github.com:Graydude98/Code-Quiz.git
+Random Password Generator
+git@github.com:Graydude98/Rods-Password-Generator.git
+https://graydude98.github.io/Rods-Password-Generator/
